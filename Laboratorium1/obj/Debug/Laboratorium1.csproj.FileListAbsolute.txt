@@ -1,0 +1,9 @@
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\bin\Debug\Laboratorium1.exe.config
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\bin\Debug\Laboratorium1.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\bin\Debug\Laboratorium1.pdb
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\obj\Debug\Laboratorium1.csprojAssemblyReference.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\obj\Debug\Laboratorium1.Properties.Resources.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\obj\Debug\Laboratorium1.csproj.GenerateResource.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\obj\Debug\Laboratorium1.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\obj\Debug\Laboratorium1.pdb
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab1\Laboratorium1\obj\Debug\Laboratorium1.Okno.resources
