@@ -1,4 +1,4 @@
-﻿namespace Labolatorium3
+﻿namespace Laboratorium3
 {
     partial class okno
     {

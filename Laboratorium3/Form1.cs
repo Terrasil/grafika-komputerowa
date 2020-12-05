@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Labolatorium3
+namespace Laboratorium3
 {
     public partial class okno : Form
     {
