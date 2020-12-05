@@ -1,9 +1,0 @@
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\bin\Debug\Laboratorium 4.exe.config
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\bin\Debug\Laboratorium 4.exe
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\bin\Debug\Laboratorium 4.pdb
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\obj\Debug\Laboratorium_4.okno.resources
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\obj\Debug\Laboratorium_4.Properties.Resources.resources
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\obj\Debug\Laboratorium 4.csproj.GenerateResource.cache
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\obj\Debug\Laboratorium 4.exe
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\obj\Debug\Laboratorium 4.pdb
-C:\Users\Patryk\Documents\Programowanie Grafika\Lab4\Laboratorium 4\obj\Debug\Laboratorium 4.csprojAssemblyReference.cache
