@@ -1,0 +1,9 @@
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\bin\Debug\Labolatorium3.exe.config
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\bin\Debug\Labolatorium3.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\bin\Debug\Labolatorium3.pdb
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\obj\Debug\Labolatorium3.csprojAssemblyReference.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\obj\Debug\Labolatorium3.okno.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\obj\Debug\Labolatorium3.Properties.Resources.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\obj\Debug\Labolatorium3.csproj.GenerateResource.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\obj\Debug\Labolatorium3.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab3\Labolatorium3\obj\Debug\Labolatorium3.pdb
