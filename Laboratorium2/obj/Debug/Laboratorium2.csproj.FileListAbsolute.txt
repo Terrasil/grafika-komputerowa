@@ -1,0 +1,9 @@
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\bin\Debug\Laboratorium2.exe.config
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\bin\Debug\Laboratorium2.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\bin\Debug\Laboratorium2.pdb
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\obj\Debug\Laboratorium2.csprojAssemblyReference.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\obj\Debug\Laboratorium2.Form1.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\obj\Debug\Laboratorium2.Properties.Resources.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\obj\Debug\Laboratorium2.csproj.GenerateResource.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\obj\Debug\Laboratorium2.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab2\Laboratorium2\obj\Debug\Laboratorium2.pdb
