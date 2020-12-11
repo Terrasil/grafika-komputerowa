@@ -1,0 +1,8 @@
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\bin\Debug\Laboratorium5.exe.config
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\bin\Debug\Laboratorium5.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\bin\Debug\Laboratorium5.pdb
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\obj\Debug\Laboratorium5.window.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\obj\Debug\Laboratorium5.Properties.Resources.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\obj\Debug\Laboratorium5.csproj.GenerateResource.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\obj\Debug\Laboratorium5.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab5\Laboratorium5\obj\Debug\Laboratorium5.pdb
