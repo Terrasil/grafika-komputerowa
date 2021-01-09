@@ -1,0 +1,9 @@
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\bin\Debug\Labroatorium 6.exe.config
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\bin\Debug\Labroatorium 6.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\bin\Debug\Labroatorium 6.pdb
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\obj\Debug\Labroatorium_6.Properties.Resources.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\obj\Debug\Labroatorium 6.csproj.GenerateResource.cache
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\obj\Debug\Labroatorium 6.exe
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\obj\Debug\Labroatorium 6.pdb
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\obj\Debug\Labroatorium_6.okno.resources
+C:\Users\Patryk\Documents\Programowanie Grafika\Lab6\Labroatorium 6\obj\Debug\Labroatorium 6.csprojAssemblyReference.cache
